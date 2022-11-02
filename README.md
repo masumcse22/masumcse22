@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AI,Deep learning, Big Data Analysis, etc.**
 
-- 📫 How to reach me **masumcse2022@gmail.com**
+- 📫 How to reach me **masum.cse2022@gmail.com**
 
 - ⚡ Fun fact **I Think I am Very Funny**
 
