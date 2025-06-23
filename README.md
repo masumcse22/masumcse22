@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <em>I transform raw data into actionable insights and compelling data stories.</em>
+  [cite_start]<em>I transform complex operational data into actionable insights that drive business growth.</em>
 </p>
 
 <p align="center">
@@ -21,12 +21,40 @@
 
 ---
 
-### 🚀 **Project Showcase: Interactive Sales Dashboard**
+### 🚀 **Interactive Project Showcase**
 
-[cite_start]Below is a live demo of my **Sales Performance & Insights Dashboard**[cite: 18]. [cite_start]Built with Power BI and SQL [cite: 18][cite_start], this tool helps leaders track KPIs like revenue by region, product performance, and sales conversion rates. [cite_start]It also includes predictive models to forecast future sales trends, enabling data-driven strategy and resource allocation.
+This section features a collection of my key data analysis projects. Each report is fully interactive. Click "View Report" to explore the live dashboards in Power BI.
+
+---
+
+#### **1. Advanced Customer Analysis**
+
+[cite_start]This dashboard provides a deep dive into customer behavior, retention, and lifetime value (LTV). [cite_start]Using complex SQL queries and DAX, I built an interactive cohort analysis dashboard to track monthly retention rates and LTV. [cite_start]The analysis identified a critical drop-off in retention after the third month and revealed that holiday cohorts have a 20% higher LTV, providing actionable insights for targeted marketing campaigns to reduce churn. [cite_start]This report also includes advanced RFM (Recency, Frequency, Monetary) segmentation to group customers into clear segments like "High-Value Champions" and "At-Risk Loyalists," enabling personalized marketing to improve loyalty.
+
+<p align="left">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjI1ZWU3ODgtNTcxNC00OTVkLTlmMmQtZjZkODlmYjc1MTcyIiwidCI6IjI2MzRmNWJhLWE5NTItNDNlMy05NmI5LTAwODZiOGFhODExNiIsImMiOjEwfQ%3D%3D&disablecdnExpiration=1750263178" target="_blank">
+    <img src="https://img.shields.io/badge/View_Report-5B32A3?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Report"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBmM2I4MGFmNWEzZDEzZGNjY2EwYmU5ODU2YjM1NTI1YmM3YjUwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpY2E/giphy.gif" alt="Project Demo GIF" width="800"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBmM2I4MGFmNWEzZDEzZGNjY2EwYmU5ODU2YjM1NTI1YmM3YjUwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpY2E/giphy.gif" alt="Customer Analysis Demo GIF" width="800"/>
+</p>
+
+---
+
+#### **2. Sales Performance & Insights Dashboard**
+
+[cite_start]This is a comprehensive Power BI dashboard designed to track and analyze key sales KPIs. [cite_start]The tool allows leadership to monitor revenue by region, analyze product category performance, and track sales pipeline conversion rates in real-time. [cite_start]To make the dashboard even more powerful, I implemented predictive models to forecast future sales trends, providing leadership with the data-driven insights needed to optimize sales strategies and resource allocation.
+
+<p align="left">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiODc0Y2QyNTItNzBjZi00ODFiLTgxMzktYTcxZDY5NWZlYzhhIiwidCI6IjI2MzRmNWJhLWE5NTItNDNlMy05NmI5LTAwODZiOGFhODExNiIsImMiOjEwfQ%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/View_Report-5B32A3?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Report"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBmM2I4MGFmNWEzZDEzZGNjY2EwYmU5ODU2YjM1NTI1YmM3YjUwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpY2E/giphy.gif" alt="Sales Analysis Demo GIF" width="800"/>
 </p>
 
 ---
